@@ -2,3 +2,19 @@
   width: 100%;
 
 }
+
+
+
+.headig{
+  background-color: rgba(247, 255, 132, 0.76);
+  padding: 10px;
+  box-shadow: 1px 1px 1px black;
+  border-radius: 10px;
+}
+
+.modal-body{
+  background-color: rgba(255, 132, 132, 0.76);
+  padding: 10px;
+  box-shadow: 1px 1px 18px rgb(0, 0, 0);
+  width: 95%;
+}
